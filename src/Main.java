@@ -19,6 +19,7 @@ public class Main {
             opcion = sc.nextInt();
             switch (opcion) {
                 case 1:
+                    
 
                     break;
                 case 2:
